@@ -1,0 +1,2 @@
+(this.webpackJsonpvivekreactapp=this.webpackJsonpvivekreactapp||[]).push([[0],{3:function(e,t,a){e.exports=a(8)},8:function(e,t,a){"use strict";a.r(t);var n=a(0),l=a.n(n),r=a(2);a.n(r).a.render(l.a.createElement(l.a.Fragment,null,l.a.createElement("ol",null,l.a.createElement("li",null,"Vivek"),l.a.createElement("li",null,"Tripathi"),l.a.createElement("li",null,"Amit Badana"),l.a.createElement("li",null,"React Js"))),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.9a936a01.chunk.js.map
